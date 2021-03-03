@@ -1,0 +1,5 @@
+valid_email = "gfr@mail.ru"
+valid_password = "12345"
+# для негативных тестов:
+unvalid_password = "67890"
+unvalid_email = "rtu@mail.ru"
